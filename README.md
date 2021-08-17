@@ -1,9 +1,12 @@
-### Hi there I'm ANMOL 👋
--My Skills :-
-# HTML 
-# CSS 
-# JS 
-# SASS 
+# Hi there I'm ANMOL 👋 
+### Web Developer 
+## My Skills :-
+### HTML 
+### CSS 
+### JS 
+### SASS 
+
+
 <!--
 **ANMOL-SL/ANMOL-SL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
