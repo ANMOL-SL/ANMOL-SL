@@ -1,10 +1,10 @@
 # Hi there I'm ANMOL 👋 
-### Web Developer 
-## My Skills :-
-### HTML 
-### CSS 
-### JS 
-### SASS 
+## Web Developer 
+### My Skills :-
+#### HTML 
+#### CSS 
+#### JS 
+#### SASS 
 
 
 <!--
