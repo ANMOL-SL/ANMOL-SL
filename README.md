@@ -1,6 +1,6 @@
 ### Hi there I'm ANMOL 👋
-##Web developer 
-
+-My Skills :-
+https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg
 <!--
 **ANMOL-SL/ANMOL-SL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
