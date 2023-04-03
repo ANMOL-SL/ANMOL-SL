@@ -5,7 +5,6 @@
 #### CSS 
 #### JS 
 #### SASS 
-![alt text](https://api.sololearn.com/Uploads/Avatars/18717961.jpg"Title")
 
 
 
